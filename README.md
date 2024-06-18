@@ -1,3 +1,3 @@
-# puzzle-search
+# Jigsaw puzzle search 🧩
 
-Playground for jigsaw puzzle search 🧩
+Playground for jigsaw puzzle search
